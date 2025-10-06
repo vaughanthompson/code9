@@ -1,7 +1,7 @@
 // Pixlbox - js media queries for responsive & navigation effects
 $(document).ready(function(){
 
-    //$.localScroll.defaults.axis = 'y';
+    
     $.localScroll({
         target: 'body',
         queue: false,
